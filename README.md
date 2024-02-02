@@ -1,4 +1,11 @@
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=NilayPatel10721&label=Profile%20Views&pretty=false" />
+</a>
+
+
 <h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilaypatel10721" alt="nilaypatel10721" /></a> </p>
 
@@ -11,6 +18,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilaypatel10721&show_icons=true&locale=en" alt="nilaypatel10721" /></p>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=NilayPatel10721&label=Profile%20Views&pretty=false" />
-</a>
